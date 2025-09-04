@@ -30,7 +30,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del curso "Procesos de inno
 
 **Edad**: 19
 
-**Pasatiempo**: Ver series, caminatas. Practicar natacion y muay thai
+**Pasatiempo**: Ver series, dar caminatas extensas y escuchar musica. Practicar natacion y muay thai
 
 **rol**: Consejera
 
@@ -39,9 +39,9 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del curso "Procesos de inno
 4) Jakeline Lau
 <img width="224" height="209" alt="image" src="https://github.com/user-attachments/assets/07049db3-2f51-4135-99f8-36e162efc0af" />
 
-**Edad**:
+**Edad**: 17
 
-**Pasatiempo**:
+**Pasatiempo**: Escuchar musica, leer y ver anime
 
 **rol**: Animadora
 
