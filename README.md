@@ -15,6 +15,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del curso "Procesos de inno
 - Redactar nuestras ideas
 
 2) Tabatha Hilares
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bf966f14-24af-462a-bfa2-58042db53e1d" />
 
 **Edad**: 17
 
@@ -25,6 +26,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del curso "Procesos de inno
 - Guiar al equipo y organizarnos
 
 3) Fiorela Suarez
+<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/23bf277a-835a-489a-a5d6-b749121639f9" />
 
 **Edad**: 19
 
@@ -35,6 +37,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del curso "Procesos de inno
 - Brindar ideas clave para los trabajos
 
 4) Jakeline Lau
+<img width="224" height="209" alt="image" src="https://github.com/user-attachments/assets/07049db3-2f51-4135-99f8-36e162efc0af" />
 
 **Edad**:
 
