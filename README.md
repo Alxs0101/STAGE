@@ -15,7 +15,8 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del curso "Procesos de inno
 - Redactar nuestras ideas
 
 2) Tabatha Hilares
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bf966f14-24af-462a-bfa2-58042db53e1d" />
+<img width="258" height="347" alt="image" src="https://github.com/user-attachments/assets/8494a22c-d920-4b66-8ab7-37ffbd7151be" />
+
 
 **Edad**: 17
 
