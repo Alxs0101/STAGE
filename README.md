@@ -3,6 +3,9 @@
 
 # Descripcion del equipo
 Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del curso "Procesos de innovacion en bioingenieria". Hemos creado este repositorio para poder compartir las actividades que estaremos realizando atraves del curso.
+
+<img width="1192" height="1288" alt="image" src="https://github.com/user-attachments/assets/c777ec7a-1cad-4c06-91c8-24554fa86b53" />
+
 # Integrantes del equipo
 1) Anjelie Antezana
 <img width="251" height="290" alt="image" src="https://github.com/user-attachments/assets/dff8371a-1727-476d-a388-521f423b5d57" />
